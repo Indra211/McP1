@@ -27,13 +27,13 @@
 }
 
 .text-input {
-    width: 50%;
+    width: 50vw;
     padding: 0px 40px;
 }
 
 .person>img {
-    height: 400px;
-    width: 400px;
+    height: 60vh;
+    width: 30vw;
     /* background-size: contain; */
 }
 .text-input>h1 {
@@ -57,7 +57,7 @@
     margin-top: 30px;
 }
 .text-input>form>input {
-    width: 310px;
+    width: 50%;
     padding: 22px 20px;
     border-radius: 8px;
     border: 4px solid black;
